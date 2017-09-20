@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "splashfix",
+        "name": "Splash Fix",
+        "version": "${version}",
+        "mcversion": "",
+        "description": "",
+        "credits": "",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["JDLogic"],
+        "logoFile": "",
+        "screenshots": [],
+        "parent":"",
+        "dependencies": []
+    }
+]

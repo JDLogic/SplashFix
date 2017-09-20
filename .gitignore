@@ -1,0 +1,29 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+rundir
+.DS_Store
+libs
+libs_bak
+ref
+ref_bak
+hold_intergration
+hold_intergration_bak
